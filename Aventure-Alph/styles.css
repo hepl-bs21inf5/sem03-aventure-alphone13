@@ -1,5 +1,5 @@
 body {
-    background-color: #a0b3d9;
+    background-color: #c9d5ed;
     color: #657b83;
   }
   h1 {
@@ -7,7 +7,7 @@ body {
   }
 
   a {
-    color: #e7367a;
+    color: #4236e7;
     font-size: 18px;
   }
 
@@ -24,4 +24,5 @@ body {
   }
   p {
     font-size: 20px;
+    color: #020211
   }
