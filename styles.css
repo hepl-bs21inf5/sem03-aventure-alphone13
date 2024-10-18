@@ -24,5 +24,16 @@ body {
   }
   p {
     font-size: 20px;
-    color: #020211
+    color: #0d0d6c
   }
+  
+  /* j'ai ajouté ça mais je suis pas sûre*/
+  /*<style>
+  .btn-group {
+      text-align: center; /* Centre les boutons */
+ /* }
+
+  .btn-group .btn {
+      margin: 5px; /* Ajoute un espacement entre les boutons */
+  /*}*/
+/*</style>*/
