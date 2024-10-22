@@ -1,12 +1,5 @@
-# Séminaire 03 - CSS
+semaine 4 
 
-[Alphie Bongongo]
-
-## Temps passé
-
-| Tâche        | Temps passé | Commentaire                    |
-| ------------ | ----------- | ------------------------------ |
-| HTML         | 30m         |                                |
-| CSS          | 40m         | difficulté à écrire le code au début  |
-| ...          | ...         | ...                            |
-| Total        | 2h30        |                                |
+pages où j'ai noté des petits résumés de codes
+cours :
+         <!--là j'ajoute une barre de navigation avec contacts et aventure. pour ça j'utilise l'élément nav. je mets l'éléments div qui me permet d'organiser et de structurer la page html. je définis les différentes classes et types des bouttons et je les nomme.-->
