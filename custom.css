@@ -1,3 +1,32 @@
+body {
+  background-color: #c9d5ed;
+  color: #657b83;
+}
+h1 {
+  color: #26aad2;
+}
+
+a {
+  color: #4236e7;
+  font-size: 18px;
+}
+
+a:hover {
+  color: #6c71c4
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: square;
+}
+p {
+  font-size: 20px;
+  color: #0d0d6c
+}
+
 :root {
     --bs-primary: #910dfd;
     --bs-secondary: #2c22c1;
@@ -19,3 +48,4 @@
     --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
     --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
   } 
+
